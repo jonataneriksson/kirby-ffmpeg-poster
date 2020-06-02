@@ -1,5 +1,5 @@
 {
-    "name": "jonataneriksson/kirby-json",
+    "name": "jonataneriksson/kirby-ffmpeg-poster",
     "description": "Kirby CMS FFMPEG hook for creating poster images from videos.",
     "version" : "0.0.1",
     "type": "kirby-plugin",
