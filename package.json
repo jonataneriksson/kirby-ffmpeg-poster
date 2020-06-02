@@ -1,0 +1,8 @@
+{
+  "name": "jonataneriksson/kirby-ffmpeg-poster",
+  "description": "Kirby CMS FFMPEG hook for creating poster images from videos.",
+  "author": "Jonatan Eriksson <jonatan.eriksson@gmail.com>",
+  "version" : "0.0.1",
+  "license": "MIT",
+  "type": "kirby-plugin"
+}

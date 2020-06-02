@@ -1,0 +1,19 @@
+{
+    "name": "jonataneriksson/kirby-json",
+    "description": "Kirby CMS FFMPEG hook for creating poster images from videos.",
+    "version" : "0.0.1",
+    "type": "kirby-plugin",
+    "homepage": "https://tsto.org",
+    "authors": [
+        {
+            "name": "Jonatan Eriksson",
+            "email": "jonatan@tsto.org",
+            "homepage": "https://tsto.org"
+        }
+    ],
+    "require": {
+        "getkirby/cms": "^3.0",
+        "getkirby/composer-installer": "^1.1",
+        "php": ">=7.1.0"
+    }
+}
